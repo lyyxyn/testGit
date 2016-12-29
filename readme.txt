@@ -9,4 +9,4 @@ merge is simple for master.
 merge is simple for taskA.
 record taskA branch.
 add dev switch.
-add main-dev switch.
+add main-dev switch for dev.
