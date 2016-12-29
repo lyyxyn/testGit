@@ -7,3 +7,4 @@ git push to github.
 to do taskA.
 merge is simple for master.
 merge is simple for taskA.
+record taskA branch.
